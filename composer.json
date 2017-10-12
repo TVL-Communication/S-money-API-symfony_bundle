@@ -16,7 +16,7 @@
         "php": ">=5.4.0",
         "symfony/framework-bundle": "~2.3|~3.0",
         "spyrit/smoney": "dev-master",
-        "jms/serializer-bundle": "~1.1"
+        "jms/serializer-bundle": "~2.1.0"
     },
     "autoload": {
         "psr-4": {
